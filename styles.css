@@ -1,0 +1,76 @@
+/* General */
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(10, 6, 32);
+}
+
+/* Headings */
+h1 {
+  font-size: 2rem;
+  color: rgb(243, 241, 245);
+}
+h1 {
+  text-transform: uppercase;
+}
+
+h2, h3, h4 {
+  font-weight: bold;
+  color: rgb(157, 154, 159);
+}
+
+/* Text */
+p {
+  text-align: center;
+  color:white;
+}
+h1 {
+  text-shadow: 2px 2px 5px gray;
+}
+
+/* Lists */
+ul, ol, dl {
+  margin: 10px;
+  color: white;
+}
+ul {
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+/* Links */
+a {
+  color: lightblue;
+}
+
+/* Layout */
+main {
+  margin: 1.5rem;
+  padding: 1rem;
+  border: 1px solid white;
+}
+
+/* Navigation */
+nav {
+  background-color: rgb(30, 30, 60);
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Class */
+.highlight {
+  color: white;
+}
+
+/* ID */
+#top {
+  background-color: rgb(10, 6, 32);
+}
+
+blockquote {
+  color: white;
+  font-style: italic;
+}
