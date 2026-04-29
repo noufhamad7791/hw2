@@ -74,3 +74,6 @@ blockquote {
   color: white;
   font-style: italic;
 }
+figcaption {
+  color: white;
+}
